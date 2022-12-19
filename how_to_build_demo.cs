@@ -171,7 +171,7 @@ static int Eval(int x, byte[] samples, Net neural, float[] neuron)
         for (int i = 1; i < output; i++)
         {
             float n = neuron[i + ih];
-            if (n > max) { max = n; prediction = i; } // grab maxout prediction here
+            if (n > max) { max = n; prediction = i; }
         }
         return prediction;
     }
@@ -210,7 +210,6 @@ struct Net
         for (int n = 0; n < net.Length - 1; n++) sum += net[n] * net[n + 1];
         return sum;
     }
-    //float learningRate, momentum; 
 }
 struct AutoData // https://github.com/grensen/easy_regression#autodata
 {
