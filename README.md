@@ -1,5 +1,14 @@
 # how_to_build
 
+
+## High Level Overview
+~~~
+1. Preprocess the data.
+2. Define the model.
+3. Train the model.
+4. Evaluate the model.
+~~~
+
 ## Code Intuition
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/network_intuition.png?raw=true">
