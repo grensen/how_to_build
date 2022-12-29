@@ -1,11 +1,11 @@
 # how_to_build
 
-## Weights + Neurons = Forward Pass
+## Neurons + Weights = Forward Pass
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/init_neurons_weights_indices.png?raw=true">
 </p>
 
-## Backward Pass = Deltas + Gradients
+## Backward Pass = Gradients + Deltas
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/init_gradients_deltas_indices.png?raw=true">
 </p>
