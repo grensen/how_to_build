@@ -20,8 +20,15 @@
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/neural_network_activations.png?raw=true">
 </p>
 
+## Understand ReLU Activations With DESMOS
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/ReLU_ji.png?raw=true">
+</p>
 
-
+## Understand Softmax Activations 
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/exp_ji.png?raw=true">
+</p>
 
 ## High Level Overview
 ~~~
