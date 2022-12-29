@@ -30,6 +30,17 @@
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/exp_ji.png?raw=true">
 </p>
 
+## Init Your Picture
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/init_with_input.png?raw=true">
+</p>
+
+## Trained With 50% Pseudo Probability For One Problem
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/trained_with_input2.png?raw=true">
+</p>
+
+
 ## High Level Overview
 ~~~
 1. Preprocess the data.
