@@ -1,5 +1,27 @@
 # how_to_build
 
+## Forward Pass = Weights + Neurons
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/init_neurons_weights_indices.png?raw=true">
+</p>
+
+## Backward Pass = Deltas + Gradients
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/init_gradients_deltas_indices.png?raw=true">
+</p>
+
+## The Process For Every Weight
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/neural_network_process.png?raw=true">
+</p>
+
+## Activations: Hidden = ReLU, Output = Softmax
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/neural_network_activations.png?raw=true">
+</p>
+
+
+
 
 ## High Level Overview
 ~~~
