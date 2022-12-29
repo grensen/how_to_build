@@ -1,6 +1,6 @@
 # how_to_build
 
-## Forward Pass = Weights + Neurons
+## Weights + Neurons = Forward Pass
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/init_neurons_weights_indices.png?raw=true">
 </p>
