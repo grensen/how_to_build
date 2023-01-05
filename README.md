@@ -7,7 +7,7 @@
 
 ## 105 Miss Predictions
 <p align="center">
-  <img src="https://github.com/grensen/how_to_build/blob/main/figures/fails_105.png?raw=true">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/incorrect_105.png?raw=true">
 </p>
 
 ## Supervised Learning Is Target Learning
