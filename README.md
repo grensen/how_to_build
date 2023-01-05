@@ -5,6 +5,11 @@
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/neural_networks.png?raw=true">
 </p>
 
+## 105 Miss Predictions
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/fails_105.png?raw=true">
+</p>
+
 ## Supervised Learning Is Target Learning
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/naive_learning.png?raw=true">
