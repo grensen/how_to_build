@@ -1,5 +1,10 @@
 # how_to_build
 
+## Supervised Learning Is Target Learning
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/naive_learning.png?raw=true">
+</p>
+
 ## Neurons + Weights = Forward Pass
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/init_neurons_weights_indices.png?raw=true">
