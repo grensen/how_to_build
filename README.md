@@ -1,5 +1,10 @@
 # how_to_build
 
+## Neural Networks
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/neural_networks.png?raw=true">
+</p>
+
 ## Supervised Learning Is Target Learning
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/naive_learning.png?raw=true">
