@@ -104,4 +104,7 @@ struct AutoData{}
 class Erratic{}
 ~~~
 
-
+## DALL-E 2 Neural Networks
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/DALL_E_neural_networks.png?raw=true">
+</p>
