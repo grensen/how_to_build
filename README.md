@@ -1,5 +1,10 @@
 # how_to_build
 
+1. https://github.com/grensen/how_to_build
+2. https://github.com/grensen/multi-core
+3. https://github.com/grensen/good_vs_bad_code
+4. https://github.com/grensen/how_to_train
+
 ## Neural Networks
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/neural_networks.png?raw=true">
