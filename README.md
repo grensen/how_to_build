@@ -35,6 +35,17 @@
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/neural_network_process.png?raw=true">
 </p>
 
+## Batch 1
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/batch2.png?raw=true">
+</p>
+
+## Batch 2
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/batch1.png?raw=true">
+</p>
+
+
 ## Activations: Hidden = ReLU, Output = Softmax
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/neural_network_activations.png?raw=true">
