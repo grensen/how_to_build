@@ -37,12 +37,12 @@
 
 ## Batch 1
 <p align="center">
-  <img src="https://github.com/grensen/how_to_build/blob/main/figures/batch_1.png?raw=true">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/batch1.png?raw=true">
 </p>
 
 ## Batch 2
 <p align="center">
-  <img src="https://github.com/grensen/how_to_build/blob/main/figures/batch_2.png?raw=true">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/batch2.png?raw=true">
 </p>
 
 ## Weight Update
