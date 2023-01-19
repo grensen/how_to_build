@@ -65,6 +65,16 @@
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/ReLU_ji.png?raw=true">
 </p>
 
+## Feed Forward Perceptron-Wise
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/ff_perceptron-wise.gif?raw=true">
+</p>
+
+## Feed Forward Layer-Wise
+<p align="center">
+  <img src="https://github.com/grensen/how_to_build/blob/main/figures/ff_layer-wise.gif?raw=true">
+</p>
+
 ## Understand Softmax Activations 
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/exp_ji.png?raw=true">
