@@ -1,23 +1,22 @@
-# how_to_build
+# How to Build Neural Networks
 
-1. https://github.com/grensen/how_to_build
-2. https://github.com/grensen/multi-core
-3. https://github.com/grensen/good_vs_bad_code
-4. https://github.com/grensen/how_to_train
-
-## Neural Networks
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/neural_networks.png?raw=true">
 </p>
 
 When I think of neural networks, I imagine something similar to the image depicted above. This is the first article in a series of guides that will teach you how to build, train, and test neural networks using a concrete example in C#. In Article 2, we'll modify the neural network to leverage multi-core processors and explore why this leads to non-reproducibility and varying results across multiple training sessions. In Article 3, we will explore both effective and ineffective coding practices, as well as optimization techniques such as SIMD, to achieve the best possible results for our neural network. Article 4 focuses on optimizing the neural network training process and evaluating the performance achieved, with a focus on achieving the best possible results. 
 
+1. https://github.com/grensen/how_to_build
+2. https://github.com/grensen/multi-core
+3. https://github.com/grensen/good_vs_bad_code
+4. https://github.com/grensen/how_to_train
+
 ## 105 Miss Predictions
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/incorrect_105.png?raw=true">
 </p>
 
-## Supervised Learning Is Target Learning
+## Target Learning: Understanding the Basics of Supervised Learning
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/naive_learning.png?raw=true">
 </p>
