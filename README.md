@@ -4,21 +4,27 @@
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/neural_networks.png?raw=true">
 </p>
 
-When I think of neural networks, I imagine something similar to the image depicted above. This is the first article in a series of guides that will teach you how to build, train, and test neural networks using a concrete example in C#. In Article 2, we'll modify the neural network to leverage multi-core processors and explore why this leads to non-reproducibility and varying results across multiple training sessions. In Article 3, we will explore both effective and ineffective coding practices, as well as optimization techniques such as SIMD, to achieve the best possible results for our neural network. Article 4 focuses on optimizing the neural network training process and evaluating the performance achieved, with a focus on achieving the best possible results. 
+When it comes to neural networks, something like the image above pops up in my mind. Some input goes in and some prediction as output comes out. 
 
-1. https://github.com/grensen/how_to_build
-2. https://github.com/grensen/multi-core
-3. https://github.com/grensen/good_vs_bad_code
-4. https://github.com/grensen/how_to_train
+- [How to Build](https://github.com/grensen/how_to_build): This is the first article in a series of guides that will teach you how to build, train, and test a neural network using a concrete example in C#.
+
+- [Multi-Core](https://github.com/grensen/multi-core): In this article, we will modify the neural network to leverage multi-core processors and explore why this leads to non-reproducibility and varying results across multiple training sessions.
+
+- [Good vs. Bad Code](https://github.com/grensen/good_vs_bad_code): Here we will explore effective and ineffective coding practices, as well as optimization techniques such as SIMD, to achieve the best possible results for our neural network.
+
+- [How to Train](https://github.com/grensen/how_to_train): The last article focuses on optimizing the neural network training process and evaluating the achieved performance, with a focus on achieving the best accuracy.
+
 
 ## 105 Miss Predictions
 <p align="center">
   <img src="https://github.com/grensen/how_to_build/blob/main/figures/incorrect_105.png?raw=true">
 </p>
 
-For this project, the MNIST handwritten digits dataset was utilized, consisting of 60,000 training images and 10,000 test images. Each image is a grayscale 28 by 28-pixel image with pixel values ranging from 0 to 255, representing a digit from 0 to 9.
+What you see here are the incorrectly predicted examples from a well-trained neural network. The target label and corresponding prediction can be seen in the upper left.
 
-The neural network achieved an impressive accuracy of 98.95% in classifying these digits. However, upon further analysis, it was discovered that there were 105 incorrect predictions out of the 10,000 test images. These misclassifications highlight the difficulties in accurately classifying handwritten digits, despite the high overall accuracy of the neural network
+The MNIST handwritten digits dataset was used here, consisting of 60,000 training images and 10,000 test images. Each image is a grayscale 28 by 28-pixel image with pixel values ranging from 0 to 255, representing a digit from 0 to 9.
+
+The neural network achieved a good accuracy of 98.95% in classifying these digits. However, upon further analysis, it was discovered that there were 105 incorrect predictions out of the 10,000 test images. These misclassifications highlight the difficulties in accurately classifying handwritten digits, despite the high overall accuracy of the neural network
 
 ## Target Learning: Understanding the Basics of Supervised Learning
 <p align="center">
